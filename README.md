@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @haraldthegrey
 - 👀 I’m interested in history, DnD, WH40k, Automation, Powershell, IT-Security from a projectmanagement point of view
 - 🌱 I’m currently learning Cloud Computing Engineering and everything else
-- 💞️ I’m looking to collaborate on stealing underwear and getting reach
-- 📫 How to reach me: In moria sipping tea with maia bro
+- 💞️ I’m looking to collaborate on stealing underwear and getting rich
+- 📫 How to reach me: In moria sipping tea with my maia bro
 - ⚡ Fun fact: Couldn´t correctly remember my line in a movie but now it is the base of a meme
 
 <!---
