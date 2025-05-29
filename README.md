@@ -44,6 +44,15 @@ Currently seeking co-conspirators for:
 Once flubbed a movie line so hard it became a meme. Still more reliable than some CI/CD pipelines.
 
 ---
+## 📚 Research & Writing
+
+Even a wizard writes things down now and then. My scrolls explore:
+
+- 📊 Productivity spells for agile teams
+- 🏛️ Enchantments tailored for SMEs in Graz
+- 🌱 Green cloud incantations for a cleaner digital realm
+
+📜 [Enter the Archive of Theses & Papers](https://github.com/haraldthegrey/Theses-and-papers)
 
 > “Technology is no different from magic when wielded with the right rituals.”  
 > — haraldthegrey
