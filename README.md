@@ -23,6 +23,47 @@ I'm **@haraldthegrey** – part cloud whisperer, part IT sorcerer, full-time Pro
 - Using C4 and domain driven designs too make the magical world more clear for C-Level guys in Gondor
 
 ---
+## 🚀 AKTT1 Group 1 Kubernetes Deployment  
+*Behold, brave traveler — the AKTT1 Group 1 Kubernetes Deployment awaits!*  
+
+A mighty fortress of containers, orchestrated by the Kubernetes overlords and guarded by the swift messenger RabbitMQ. Secure, scalable, and ready to conquer your local cluster realm.  
+
+**The Fellowship of the Deployment:**  
+- Harald Beier (haraldthegrey), Keeper of the Grey Code  
+- Susanne Peer (LilithPandragon), Mistress of the Arcane Scripts  
+- Patrick Prugger (pprugger), Guardian of the Cluster Gates  
+
+### ⚔️ What Magic Lies Within?  
+- The **Producer** forges JSON scrolls, stamped with the sacred UTC hour — time itself bends to its will  
+- The **RabbitMQ**, swift courier of messages, ensures no data falls into the abyss  
+- The **Consumer**, a sorcerer’s app, breathes life into these JSON relics with spells of refresh and banishment (delete)  
+- Kubernetes manifests come armed with impenetrable network policies, trusty RBAC shields, and noble security contexts  
+- Scripts to deploy and purge — invoke them to summon or banish the app with ease (Rancher Desktop is thy trusted steed)  
+
+[Gaze upon the full codex here »](https://github.com/haraldthegrey/AKTT1-GROUP1-K8S)  
+
+## ⚔️ VIRTI-PT – Practical Quests in Virtualization  
+
+*Hark, brave adventurer! VIRTI-PT is our grimoire of hands-on Azure virtualization challenges.*
+
+**The Fellowship:** Harald the Grey, Lilith Pandragon, and Sentinel Prugger
+
+### 🛡️ What We’ve Mastered  
+- **Summoned VMs** with RDP/SSH and monitored them under Azure Monitor  
+- **Fortified Backups** & restorations, deciphering snapshots vs. full backups  
+- **Scripted Infrastructures** via Bicep/Terraform for rapid VM deployment  
+- **Woven Policies** to restrict regions, lock down storage, and guard public IPs  
+- **Charted Resource Graphs** to inventory our Azure dominion  
+- **Cloned Armies** of VMs & bound on-prem servers with Azure Arc  
+- **Enchanted VMs** with Desired State Configuration for pre-installed roles  
+- **Audited Realms** using cloudquery (theoretical) for compliance insights  
+- **Raised an AKS Fortress** with autoscaling, CNI/Calico, monitoring, and ingress triage  
+- **Deployed CI/CD Web Apps** on Azure for continuous evolution  
+- **Engineered Hub-and-Spoke Networks** with firewall citadels and peering rites  
+
+*Embark on the full saga and uncover every spell in our repository!*  
+🔗 [Enter the VIRTI-PT Chronicles »](https://github.com/haraldthegrey/G1Virti)  
+
 
 ## 💬 Let's Collaborate
 
