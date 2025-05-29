@@ -9,8 +9,8 @@ I'm **@haraldthegrey** – part cloud whisperer, part IT sorcerer, full-time Pro
 - 🏰 **Dayjob Title:** Project Lead IT Infrastructure @ Energie Steiermark AG
 - 🧠 **Academic Questline:** Master of Cloud Computing Engineering & MBA in IT Consultancy
 - 🔐 **Specializations:** Cloud Architecture • DevOps Rituals • IT-Security from the Command Chair
-- ⚔️ **Battle Skills:** Azure Front Door, Oracle RAC, REST API, Docker Compose, SAML, Kerberos, PRINCE2, CMC, ITIL
-- 🧝‍♂️ **Side Quests:** DnD campaigns, WH40k lore debates, reading up on socio-technical dragons
+- ⚔️ **Battle Skills:** Azure PaaS and IaaS, Event and Message Queues - KAFKA, RabbitMQ, REST API, Docker Compose, SAML|OIDC|SCIM - IAM for the WIN, LDAPS| Kerberos, PRINCE2, CMC, ITIL
+- 🧝‍♂️ **Side Quests:** DnD campaigns, WH40k lore debates, reading up on socio-technical dragons, losing myself in historical palaver
 
 ---
 
@@ -19,6 +19,8 @@ I'm **@haraldthegrey** – part cloud whisperer, part IT sorcerer, full-time Pro
 - Brewing scalable cloud potions with Azure
 - Summoning MQTT architectures for solar-charging familiars
 - Polishing legacy systems until they shimmer like mithril
+- Deciding about the right queueing system
+- Using C4 and domain driven designs too make the magical world more clear for C-Level guys in Gondor
 
 ---
 
