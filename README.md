@@ -51,14 +51,10 @@ A mighty fortress of containers, orchestrated by the Kubernetes overlords and gu
 ### 🛡️ What We’ve Mastered  
 - **Summoned VMs** with RDP/SSH and monitored them under Azure Monitor  
 - **Fortified Backups** & restorations, deciphering snapshots vs. full backups  
-- **Scripted Infrastructures** via Bicep/Terraform for rapid VM deployment  
+- **Scripted Infrastructures** via Terraform for rapid VM deployment  
 - **Woven Policies** to restrict regions, lock down storage, and guard public IPs  
-- **Charted Resource Graphs** to inventory our Azure dominion  
-- **Cloned Armies** of VMs & bound on-prem servers with Azure Arc  
 - **Enchanted VMs** with Desired State Configuration for pre-installed roles  
 - **Audited Realms** using cloudquery (theoretical) for compliance insights  
-- **Raised an AKS Fortress** with autoscaling, CNI/Calico, monitoring, and ingress triage  
-- **Deployed CI/CD Web Apps** on Azure for continuous evolution  
 - **Engineered Hub-and-Spoke Networks** with firewall citadels and peering rites  
 
 *Embark on the full saga and uncover every spell in our repository!*  
