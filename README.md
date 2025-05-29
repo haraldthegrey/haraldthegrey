@@ -10,7 +10,7 @@ I'm **@haraldthegrey** – part cloud whisperer, part IT sorcerer, full-time Pro
 - 🧠 **Academic Questline:** Master of Cloud Computing Engineering & MBA in IT Consultancy
 - 🔐 **Specializations:** Cloud Architecture • DevOps Rituals • IT-Security from the Command Chair
 - ⚔️ **Battle Skills:** Azure PaaS and IaaS, Event and Message Queues - KAFKA, RabbitMQ, REST API, Docker Compose, SAML|OIDC|SCIM - IAM for the WIN, LDAPS| Kerberos, PRINCE2, CMC, ITIL
-- 🧝‍♂️ **Side Quests:** DnD campaigns, WH40k lore debates, reading up on socio-technical dragons, losing myself in historical palaver
+- 🧝‍♂️ **Side Quests:** DnD campaigns, WH40k lore debates, reading up on socio-technical dragons,losing myself in historical palaver
 
 ---
 
